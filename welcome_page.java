@@ -43,7 +43,7 @@ public class welcome_page {
                     running = false;
                     break;
                 default:
-                    System.out.println("Invalid option. Please choose 1-7.");
+                    System.out.println("Invalid option.");
             }
         }
 
